@@ -553,6 +553,13 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
+@media (max-width: 720px) {
+ .timeline-icon {
+  font-size: 45px !important;
+  margin-top: 10px !important;
+ }
+}
+
 @media (min-width: 1200px) {
   .timeline > li {
     min-height: 170px;
